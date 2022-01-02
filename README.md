@@ -1,3 +1,7 @@
+# Pixel Ponies Page
+
+Collection of games and apps both fun and professional.
+
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
   <a href="https://www.gatsbyjs.com">
