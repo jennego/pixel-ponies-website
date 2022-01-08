@@ -11,8 +11,8 @@ const IndexPage = () => (
     <h1 className="heading">Pixel Ponies</h1>
     <p> A collection of equestrian-themed and related apps and games.</p>
     <p>
-      Just because you spend a lot of time in a barn doesn't mean your tools
-      need to be from a cave!
+      Just because you spend a lot of time in a barn doesn't mean your tools and
+      fun need to be from a cave!
     </p>
     <p> WASD or arrow keys to move horse!</p>
 
@@ -29,12 +29,11 @@ const IndexPage = () => (
 
     <h1>Current Projects </h1>
     <p>
-      {" "}
       I am a web dev looking for a job so I am mostly focusing on that right
-      now.{" "}
+      now.
     </p>
     <p> I am casually learning Unity.</p>
-    <p> Considering making a browser-based html5/phaser game</p>
+    <p> Considering making a browser-based html5/phaser horse-related game</p>
   </Layout>
 )
 

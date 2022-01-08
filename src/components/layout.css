@@ -3,10 +3,18 @@
   src: url(../images/3D-Thirteen-Pixel-Fonts.ttf);
 }
 
+body {
+  background: url(../images/grass3.png);
+  background-size: 110px;
+}
+
 .heading {
   font-family: threedpixel;
   font-size: 80px;
   font-weight: normal;
+  background-color: brown;
+  padding: 1rem;
+  display: inline-block;
 }
 
 .heading2 {
