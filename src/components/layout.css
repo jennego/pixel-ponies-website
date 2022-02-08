@@ -3,22 +3,54 @@
   src: url(../images/3D-Thirteen-Pixel-Fonts.ttf);
 }
 
+@import url("https://fonts.googleapis.com/css2?family=VT323&display=swap");
+
 body {
-  background: url(../images/grass3.png);
-  background-size: 110px;
+  /* background: url(../images/grass3.png);
+  background-size: 110px; */
+  font-family: "VT323", monospace;
+  font-size: 25px;
+  margin: 0;
+  padding: 0;
+  max-width: 99.5vw;
 }
 
 .heading {
   font-family: threedpixel;
   font-size: 80px;
   font-weight: normal;
-  background-color: brown;
   padding: 1rem;
-  display: inline-block;
+}
+
+.heading-section {
+  background-color: #4d278f;
+  color: #fff;
+}
+
+.menu-section {
+  background-color: #4d278f;
+  color: #ffffff;
+  width: 100%;
+  height: 90vh;
+}
+
+.content-section {
+  padding: 1rem 2rem;
+  background-color: rgba(19, 143, 45, 0.7);
+}
+
+.grass-bg {
+  background: url(../images/grass3.png);
+  /* background-size: 90px; */
 }
 
 .heading2 {
   font-family: threedpixel;
   font-size: 50px;
   font-weight: normal;
+}
+
+.text-block {
+  background-color: rgba(19, 143, 45, 0.5);
+  padding: 1rem;
 }
