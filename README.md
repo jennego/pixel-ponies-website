@@ -1,6 +1,12 @@
-# Pixel Ponies Page
+# Pixel Ponies Web Page
 
 Collection of games and apps both fun and professional.
+
+Just because you spend lots of time at the barn doesn't mean you need to horse around on the computer like a luddite farmer!
+
+- interactive horse (react or Phaser?)
+- pixelized icons?
+- pixel fence borders?
 
 <!-- AUTO-GENERATED-CONTENT:START (STARTER) -->
 <p align="center">
