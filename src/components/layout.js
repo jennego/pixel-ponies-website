@@ -11,6 +11,7 @@ import { useStaticQuery, graphql } from "gatsby"
 import Header from "./header"
 import "flexboxgrid/dist/flexboxgrid.min.css"
 import "./layout.css"
+import { slide as Menu } from "react-burger-menu"
 
 const Layout = ({ children }) => {
   const data = useStaticQuery(graphql`
@@ -25,6 +26,9 @@ const Layout = ({ children }) => {
 
   return (
     <>
+      <Menu>
+        <div className=".bm-item-list">Blah</div>
+      </Menu>
       <div
         style={{
           margin: `0 auto`,

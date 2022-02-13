@@ -16,7 +16,17 @@ const IndexPage = () => (
     </div>
 
     <div className="row grass-bg" style={{ height: "80vh" }}>
-      <div className="col-lg-8 col-md-6 col-xs-12 content-section">Welcome</div>
+      <div className="col-lg-8 col-md-6 col-xs-12 content-section">
+        <div className="fence">
+          <h2 style={{ margin: "0.5rem" }}>Horse Related Games and Toys</h2>
+          <div className="section-content">
+            <div className="game-item">
+              Punnet Ponies
+              <div className="tag">Web Toy</div>
+            </div>
+          </div>
+        </div>
+      </div>
       <div className="col-lg-4 col-md-3 col-xs-12">PONY Pony</div>
     </div>
 
