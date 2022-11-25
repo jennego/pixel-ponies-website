@@ -17,12 +17,30 @@ const IndexPage = () => (
 
     <div className="row grass-bg" style={{ height: "80vh" }}>
       <div className="col-lg-8 col-md-6 col-xs-12 content-section">
+        <div>
+          <h1>To Do</h1>
+          <ol>
+            <li>make fence more pixely</li>
+            <li>integrate header better</li>
+            <li>improve design and theming</li>
+            <li> add desktop menu</li>
+            <li> add better project icons</li>
+            <li> horse games and steam deck (blog?) </li>
+            <li> horse games page </li>
+            <li> horse games resources</li>
+            <li> blog (wp? or other) </li>
+          </ol>
+        </div>
         <div className="fence">
           <h2 style={{ margin: "0.5rem" }}>Horse Related Games and Toys</h2>
           <div className="section-content">
             <div className="game-item">
               Punnet Ponies
               <div className="tag">Web Toy</div>
+            </div>
+            <div className="game-item">
+              Tic Tic Whoa
+              <div className="tag">Web Toy </div>
             </div>
           </div>
         </div>
