@@ -15,12 +15,12 @@ const IndexPage = () => (
       </div>
     </div>
 
-    <div className="row grass-bg" style={{ height: "80vh" }}>
+    <div className="row grass-bg" style={{ minHeight: "80vh" }}>
       <div className="col-lg-8 col-md-6 col-xs-12 content-section">
         <div>
           <h1>To Do</h1>
           <ol>
-            <li>make fence more pixely</li>
+            <li>make fence more pixely - mostly done, may need adjusting</li>
             <li>integrate header better</li>
             <li>improve design and theming</li>
             <li> add desktop menu</li>

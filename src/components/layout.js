@@ -26,9 +26,10 @@ const Layout = ({ children }) => {
 
   return (
     <>
-      <Menu>
+      <Menu right>
         <div className=".bm-item-list">Blah</div>
       </Menu>
+
       <div
         style={{
           margin: `0 auto`,
