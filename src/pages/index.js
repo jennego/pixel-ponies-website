@@ -16,12 +16,22 @@ const IndexPage = () => (
     </div>
 
     <div className="row grass-bg" style={{ minHeight: "80vh" }}>
-      <div className="col-lg-8 col-md-6 col-xs-12 content-section">
+      <div className="col-lg-3 col-md-3 col-xs-12">
+        <ul>
+          <li>My Projects </li>
+          <li>Blog </li>
+          <li>Horse + Cozy Game Reviews</li>
+          <li>Horse Gaming on Steam Deck</li>
+          <li>Horse Game Emulation</li>
+          <li>External Horse Game Resources</li>
+        </ul>
+      </div>
+      <div className="col-lg-9 col-md-9 col-xs-12 content-section">
         <div>
           <h1>To Do</h1>
+
           <ol>
-            <li>make fence more pixely - mostly done, may need adjusting</li>
-            <li>integrate header better</li>
+            <li>integrate header better + create header image</li>
             <li>improve design and theming</li>
             <li> add desktop menu</li>
             <li> add better project icons</li>
@@ -45,7 +55,6 @@ const IndexPage = () => (
           </div>
         </div>
       </div>
-      <div className="col-lg-4 col-md-3 col-xs-12">PONY Pony</div>
     </div>
 
     {/* <h1 className="heading">Pixel Ponies</h1>
