@@ -28,8 +28,12 @@ const IndexPage = () => (
       </div>
       <div className="col-lg-9 col-md-9 col-xs-12 content-section">
         <div>
-          <h1>To Do</h1>
+          <h2>
+            Just because you spend time in a barn, doesn't mean your fun or
+            tools need to be from a barn!
+          </h2>
 
+          <h1>To Do</h1>
           <ol>
             <li>integrate header better + create header image</li>
             <li>improve design and theming</li>

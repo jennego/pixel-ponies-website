@@ -19,8 +19,7 @@ const SecondPage = () => (
       {" "}
       In recent years, I have played Star Stable, Alicia Online, Horze, Wild
       Horses Valley. Currently I rarely play any of those games but occasionally
-      I log onto to Horze and Star Stable. Waiting for an appropriate gaming
-      machine for Alicia Online.
+      I log onto to Horze and Star Stable.
     </p>
     <p>
       In my younger days, I got a ton of milage out of Mary King's Riding Start,
